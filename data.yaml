@@ -1,0 +1,15 @@
+path: /content/drive/MyDrive/AI_BaiTapLon/cccd_extraction_src/data/detection
+
+train: images/train
+val: images/val
+
+names:
+  0: card
+  1: dob
+  2: expiry
+  3: gender
+  4: id_number
+  5: name
+  6: nationality
+  7: origin
+  8: residence
